@@ -3,6 +3,7 @@
     "description": "A PHP library for reporting events to the Keen IO API",
     "type": "library",
     "license": "MIT",
+    "version": "1.0.0",
     "keywords": [
         "keen io",
         "analytics"
