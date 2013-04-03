@@ -1,5 +1,5 @@
 {
-    "name": "priyolahiri/KeenClient-PHP",
+    "name": "priyolahiri/keenclient-php",
     "description": "A PHP library for reporting events to the Keen IO API",
     "type": "library",
     "license": "MIT",
